@@ -1,0 +1,49 @@
+INFO:     Started server process [89426]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:53632 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53633 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53632 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53637 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53636 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53633 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53638 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53637 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53636 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53632 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53638 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53639 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53667 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53666 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53667 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53668 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53666 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53669 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53671 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53670 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53668 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53667 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53666 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53669 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53671 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53668 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53689 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53694 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53693 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53692 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53689 - "GET /api/columns?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53691 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53693 - "GET /api/unique-values?sheet=PROYECTOS&column=Responsable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53689 - "GET /api/unique-values?sheet=PROYECTOS&column=Prioridad HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53692 - "GET /api/unique-values?sheet=PROYECTOS&column=Area HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53691 - "GET /api/unique-values?sheet=PROYECTOS&column=Estado HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53694 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53692 - "GET /api/filter?sheet=PROYECTOS HTTP/1.1" 200 OK
